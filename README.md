@@ -147,9 +147,13 @@ _Please fill in this section with any important notes about your implementation,
 
 ### My Implementation:
 
--
--
--
+Basically, I made sure to follow all the required instructions carefully so that I wouldn’t make any unnecessary changes. Along the way, I encountered a few bugs in my code, which I fixed promptly. I also double-checked the database columns to ensure that the correct data types were being passed, helping to prevent potential errors. In addition, I verified that all the required libraries were properly installed.
+
+Since the task required using Tailwind CSS, I focused on keeping the UI simple and clean. Once Tailwind was enabled, the interface looked much more polished and visually pleasing because of its minimalist design.
+
+The main challenge, I’d say, was that I accidentally pushed to someone else’s repository — I couldn’t help but laugh when I realized it wasn’t mine!
+
+On top of the main requirements, I also decided to include one optional feature: score tracking, to basically add the overall functionality and user experience.
 
 ## Additional Features (Optional)
 
